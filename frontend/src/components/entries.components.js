@@ -4,7 +4,7 @@ import axios from "axios";
 
 import {Button, Form, Container, Modal} from 'react-bootstrap'
 
-import Entry from './single-entry.component';
+import Entry from './single-entry.components';
 
 const Entries =() =>{
 
